@@ -41,7 +41,6 @@ tl0
     "start0"
   );
 
-// GSAP Timeline #1
 let tl1 = gsap.timeline();
 tl1
   .add("start0")
