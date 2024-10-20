@@ -98,7 +98,6 @@ let scene1 = new ScrollMagic.Scene({
   .setPin(".section-01")
   .addTo(controller);
 
-// Initial image loading
 images[0].onload = render;
 
 function render() {
