@@ -47,7 +47,6 @@ tl1
 
   .to(mainText, { duration: 5, y: -500 }, "start0")
 
-  /* BG 'Image Change' Animation */
   .to(
     airpods,
     {
