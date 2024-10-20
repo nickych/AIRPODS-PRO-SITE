@@ -32,7 +32,6 @@ for (let i = 0; i < frameCount; i++) {
 }
 
 // GSAP Timeline #0 - Initial Loading Animation
-// (Not attached to scrolling)
 let tl0 = gsap.timeline();
 tl0
   .add("start0")
