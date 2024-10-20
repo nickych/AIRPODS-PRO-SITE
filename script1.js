@@ -45,7 +45,6 @@ let tl1 = gsap.timeline();
 tl1
   .add("start0")
 
-  /* Main Text Animation */
   .to(mainText, { duration: 5, y: -500 }, "start0")
 
   /* BG 'Image Change' Animation */
