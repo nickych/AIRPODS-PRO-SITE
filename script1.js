@@ -106,7 +106,6 @@ let scene1 = new ScrollMagic.Scene({
 // Initial image loading
 images[0].onload = render;
 
-// Rendering image on canvas
 function render() {
   context.clearRect(0, 0, canvas.width, canvas.height);
   context.drawImage(images[airpods.frame], 0, 0);
