@@ -30,7 +30,6 @@ for (let i = 0; i < frameCount; i++) {
   images.push(img);
 }
 
-// GSAP Timeline #0 - Initial Loading Animation
 let tl0 = gsap.timeline();
 tl0
   .add("start0")
