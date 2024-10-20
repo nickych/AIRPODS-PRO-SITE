@@ -98,7 +98,6 @@ let scene1 = new ScrollMagic.Scene({
   triggerElement: ".section-01",
   duration: "4000",
   triggerHook: 0,
-  //   offset: "100",
 })
   .setTween(tl1)
   .setPin(".section-01")
