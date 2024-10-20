@@ -88,7 +88,6 @@ tl1
   /* BG 'Image Scale' Animation */
   .to(canvas, { duration: 36, scale: 0.5, ease: Power1.easeIn }, "start0");
 
-// ScrollMagic Scene #1
 let scene1 = new ScrollMagic.Scene({
   triggerElement: ".section-01",
   duration: "4000",
