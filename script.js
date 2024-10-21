@@ -11,5 +11,4 @@ window.addEventListener("scroll", () => {
   }
 });
 
-/* ScrollMagic Controller */
 let controller = new ScrollMagic.Controller();
