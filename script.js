@@ -1,4 +1,3 @@
-/* Navbar #2 - Sticky Functioning */
 const navbar = document.querySelector(".airpods-navbar");
 const originalY = navbar.offsetTop; // 44
 
