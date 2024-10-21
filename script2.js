@@ -25,7 +25,6 @@ for (let i = 0; i < frameCount2; i++) {
   images2.push(img);
 }
 
-// GSAP Timeline #2
 let tl2 = gsap.timeline();
 tl2
   .add("start0")
