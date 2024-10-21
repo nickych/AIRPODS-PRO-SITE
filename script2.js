@@ -29,7 +29,6 @@ let tl2 = gsap.timeline();
 tl2
   .add("start0")
 
-  /* Main Text Animation */
   .to(msgText, { delay: 11, duration: 3.5, opacity: 1, y: -50 }, "start0")
   .to(msgText, { duration: 3.5, opacity: 0, y: -100 })
 
