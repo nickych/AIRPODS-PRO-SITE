@@ -1,5 +1,5 @@
 const navbar = document.querySelector(".airpods-navbar");
-const originalY = navbar.offsetTop; // 44
+const originalY = navbar.offsetTop; 
 
 console.log(document.querySelector(".section-01").offsetTop);
 
