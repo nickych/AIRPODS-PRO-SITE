@@ -73,7 +73,6 @@ tl1
   .to(msgText4, { duration: 3.5, opacity: 1, y: -50 }, "start4")
   .to(msgText4, { duration: 3.5, opacity: 0, y: -100 })
 
-  /* Ending the scene - black screen in the end */
   .to(airpods, {
     duration: 1,
     frame: frameCount - 1,
