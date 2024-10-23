@@ -56,10 +56,7 @@ tl1
       ease: "none",
       onUpdate: render,
     },
-    "start0"
-  )
-
-  /* Message Text Animation - 1, 2, 3, 4 */
+    
   .add("start1")
   .to(msgText1, { duration: 3.5, opacity: 1, y: -50 }, "start1")
   .to(msgText1, { duration: 3.5, opacity: 0, y: -100 })
