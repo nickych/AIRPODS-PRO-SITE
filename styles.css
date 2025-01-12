@@ -156,6 +156,7 @@ section {
   text-align: center;
   z-index: 5;
 }
+
 .msg-elem {
   transform: translate(-50%, 0%);
   opacity: 0;
