@@ -81,6 +81,7 @@ nav {
 .nav-items button:hover {
   color: #2997ff;
 }
+
 .nav-items button:disabled,
 .nav-items button:disabled:hover {
   color: #bebebe;
