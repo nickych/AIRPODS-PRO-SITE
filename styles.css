@@ -310,6 +310,7 @@ footer {
   display: flex;
   justify-content: center;
 }
+
 footer .content {
   padding: 40px 0px;
   width: 980px;
